@@ -6,12 +6,6 @@
 
 一点收纳是一款帮助用户管理家庭物品的智能收纳工具。支持多人协作、物品分类管理、存储位置管理等功能，让家庭收纳更轻松。
 
-## 技术架构
-
-- 前端框架：uniapp
-- 后端服务：uniCloud-aliyun
-- 数据库：云数据库
-
 ## 主要功能
 
 - 📦 物品管理：添加、编辑、删除物品，支持分类管理
@@ -21,7 +15,13 @@
 - 📊 数据统计：物品分类统计、使用频率分析
 - 💬 意见反馈：用户反馈和建议
 
-## 项目目录结构
+## 技术架构
+
+- 前端框架：uniapp
+- 后端服务：uniCloud-aliyun
+- 数据库：云数据库
+
+## 目录结构
 
 ```
 pages/
@@ -35,19 +35,21 @@ pages/
 └── version/    # 版本信息
 ```
 
+## 功能预览
+
+<table>
+  <tr>
+    <td><img src="https://s3.bmp.ovh/imgs/2025/05/29/10ba1b8455ce6cdc.jpg" width="250"/></td>
+    <td><img src="https://s3.bmp.ovh/imgs/2025/05/29/8e7e348f449a08c3.jpg" width="250"/></td>
+    <td><img src="https://s3.bmp.ovh/imgs/2025/05/29/9451226bd027ad2c.jpg" width="250"/></td>
+  </tr>
+</table>
+
 ## 在线体验
 
-### 微信小程序码
+<img src="https://s3.bmp.ovh/imgs/2025/05/29/17962894d248c4b5.jpg" width="200"/>
 
-![小程序码](https://s3.bmp.ovh/imgs/2025/05/29/17962894d248c4b5.jpg)
-
-或者在微信小程序中搜索 `一点收纳`
-
-### 功能预览
-
-![预览图1](https://s3.bmp.ovh/imgs/2025/05/29/10ba1b8455ce6cdc.jpg)
-![预览图2](https://s3.bmp.ovh/imgs/2025/05/29/8e7e348f449a08c3.jpg)
-![预览图3](https://s3.bmp.ovh/imgs/2025/05/29/9451226bd027ad2c.jpg)
+微信小程序搜索：`一点收纳`
 
 ## 部署说明
 
