@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 日历外框 -->
+    <rect x="12" y="14" width="24" height="24" rx="2" stroke="#5985E1" stroke-width="2"/>
+    <!-- 日历顶部 -->
+    <path d="M12 20H36" stroke="#5985E1" stroke-width="2"/>
+    <!-- 日历挂钩 -->
+    <path d="M18 10V16" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+    <path d="M30 10V16" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+    <!-- 时钟指针 -->
+    <circle cx="24" cy="28" r="6" stroke="#5985E1" stroke-width="2"/>
+    <path d="M24 25V28H27" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+</svg> 

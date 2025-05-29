@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- 酱油瓶 -->
+    <path d="M60 40 L80 60 L80 160 L40 160 L40 60 Z" fill="#F4B042" stroke="#333333" stroke-width="4"/>
+    <rect x="55" y="30" width="30" height="20" rx="5" fill="#333333"/>
+    
+    <!-- 调味罐 -->
+    <path d="M120 60 L160 60 L160 160 L120 160 Z" fill="#F4B042" stroke="#333333" stroke-width="4"/>
+    <path d="M110 50 L170 50 L160 60 L120 60 Z" fill="#F4B042" stroke="#333333" stroke-width="4"/>
+    
+    <!-- 调味孔 -->
+    <circle cx="130" cy="40" r="3" fill="#333333"/>
+    <circle cx="140" cy="40" r="3" fill="#333333"/>
+    <circle cx="150" cy="40" r="3" fill="#333333"/>
+    
+    <!-- 装饰线 -->
+    <path d="M130 80 L150 80" stroke="#333333" stroke-width="2" opacity="0.3"/>
+    <path d="M130 100 L150 100" stroke="#333333" stroke-width="2" opacity="0.3"/>
+    <path d="M130 120 L150 120" stroke="#333333" stroke-width="2" opacity="0.3"/>
+</svg> 

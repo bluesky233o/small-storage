@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 柜子主体 -->
+  <rect x="20" y="20" width="160" height="160" rx="4" fill="#F4B042" stroke="#333333" stroke-width="6"/>
+  
+  <!-- 柜门分隔线 -->
+  <line x1="20" y1="100" x2="180" y2="100" stroke="#333333" stroke-width="6"/>
+  
+  <!-- 上柜门把手 -->
+  <rect x="160" y="50" width="10" height="30" rx="2" fill="#333333"/>
+  
+  <!-- 下柜门把手 -->
+  <rect x="160" y="120" width="10" height="30" rx="2" fill="#333333"/>
+</svg> 

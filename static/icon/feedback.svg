@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 主对话框 -->
+    <path d="M12 16C12 14.8954 12.8954 14 14 14H34C35.1046 14 36 14.8954 36 16V30C36 31.1046 35.1046 32 34 32H24L18 38V32H14C12.8954 32 12 31.1046 12 30V16Z" stroke="#5985E1" stroke-width="2"/>
+    <!-- 装饰点 -->
+    <circle cx="18" cy="23" r="2" fill="#5985E1"/>
+    <circle cx="24" cy="23" r="2" fill="#5985E1"/>
+    <circle cx="30" cy="23" r="2" fill="#5985E1"/>
+</svg>

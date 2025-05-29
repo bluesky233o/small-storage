@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48" height="48" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 48 48"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#212121;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0.000588025" y="-0.000588025" width="48" height="48"/>
+  <g id="_344238064">
+   <rect id="_344234896" class="fil0" x="0" y="0" width="48" height="48"/>
+   <path id="_344236192" class="fil1" d="M24 18H36" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+   <path id="_344237488" class="fil1" d="M12 18H20" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+   <path id="_344237848" class="fil1" d="M24 30H36" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+   <path id="_344238568" class="fil1" d="M12 30H20" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+   <path id="_344237392" class="fil1" d="M24 12H36" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+   <path id="_344238424" class="fil1" d="M12 12H20" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+   <path id="_344237344" class="fil1" d="M24 30H36" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+   <path id="_344239240" class="fil1" d="M12 30H20" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+  </g>
+ </g>
+</svg>

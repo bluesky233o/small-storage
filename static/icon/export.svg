@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 文档 -->
+    <path d="M14 10C14 8.89543 14.8954 8 16 8H32C33.1046 8 34 8.89543 34 10V38C34 39.1046 33.1046 40 32 40H16C14.8954 40 14 39.1046 14 38V10Z" stroke="#5985E1" stroke-width="2"/>
+    <!-- 文档线条 -->
+    <line x1="19" y1="16" x2="29" y2="16" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+    <line x1="19" y1="22" x2="29" y2="22" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+    <!-- 导出箭头 -->
+    <path d="M24 26V34" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+    <path d="M20 30L24 34L28 30" stroke="#5985E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- 薯片袋 -->
+    <path d="M60 40 L140 40 L150 160 L50 160 Z" fill="#F4B042" stroke="#333333" stroke-width="4"/>
+    
+    <!-- 包装纹理 -->
+    <path d="M70 60 L130 60" stroke="#333333" stroke-width="2" opacity="0.3"/>
+    <path d="M65 90 L135 90" stroke="#333333" stroke-width="2" opacity="0.3"/>
+    <path d="M60 120 L140 120" stroke="#333333" stroke-width="2" opacity="0.3"/>
+    
+    <!-- 糖果 -->
+    <circle cx="100" cy="90" r="25" fill="#FF6B6B"/>
+    <path d="M75 90 L125 90" stroke="#333333" stroke-width="4"/>
+    
+    <!-- 文字装饰 -->
+    <text x="100" y="140" text-anchor="middle" font-size="24" fill="#333333" font-weight="bold">SNACK</text>
+</svg> 

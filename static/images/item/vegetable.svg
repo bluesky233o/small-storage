@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- 胡萝卜 -->
+    <path d="M100 40 L120 70 L80 180 L60 150 Z" fill="#F4B042" stroke="#333333" stroke-width="4"/>
+    
+    <!-- 叶子 -->
+    <path d="M100 40 C120 20, 140 30, 130 50" fill="#4CAF50" stroke="#333333" stroke-width="4"/>
+    <path d="M100 40 C80 20, 60 30, 70 50" fill="#4CAF50" stroke="#333333" stroke-width="4"/>
+    
+    <!-- 纹理 -->
+    <path d="M90 80 L110 90" stroke="#333333" stroke-width="2" opacity="0.3"/>
+    <path d="M85 100 L105 110" stroke="#333333" stroke-width="2" opacity="0.3"/>
+    <path d="M80 120 L100 130" stroke="#333333" stroke-width="2" opacity="0.3"/>
+</svg> 

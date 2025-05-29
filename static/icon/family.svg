@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 中间大圆（主要成员） -->
+    <circle cx="24" cy="20" r="8" stroke="#5985E1" stroke-width="2"/>
+    <!-- 左侧小圆（家庭成员） -->
+    <circle cx="14" cy="28" r="6" stroke="#5985E1" stroke-width="2"/>
+    <!-- 右侧小圆（家庭成员） -->
+    <circle cx="34" cy="28" r="6" stroke="#5985E1" stroke-width="2"/>
+    <!-- 连接线 -->
+    <path d="M24 28C24 28 24 36 24 36C24 36 14 36 14 36M24 36C24 36 34 36 34 36" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+</svg> 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景圆 -->
+    <circle cx="120" cy="120" r="100" fill="#F5F7FA" />
+    
+    <!-- 房子主体 -->
+    <path d="M120 60L180 110V170H60V110L120 60Z" fill="#E1EBFF" stroke="#5985E1" stroke-width="4" stroke-linejoin="round"/>
+    
+    <!-- 房子门 -->
+    <path d="M105 130H135V170H105V130Z" fill="#5985E1"/>
+    
+    <!-- 房子窗户 -->
+    <circle cx="90" cy="110" r="10" fill="#5985E1"/>
+    <circle cx="150" cy="110" r="10" fill="#5985E1"/>
+    
+    <!-- 烟囱 -->
+    <path d="M155 80V65H170V95L155 80Z" fill="#E1EBFF" stroke="#5985E1" stroke-width="4" stroke-linejoin="round"/>
+    
+    <!-- 人物1 -->
+    <g transform="translate(85, 140)">
+        <circle cx="0" cy="-15" r="8" fill="#3A66C0"/> <!-- 头 -->
+        <path d="M-5 -5L0 10L5 -5" stroke="#3A66C0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/> <!-- 身体 -->
+        <line x1="-8" y1="0" x2="8" y2="0" stroke="#3A66C0" stroke-width="4" stroke-linecap="round"/> <!-- 手 -->
+    </g>
+    
+    <!-- 人物2 -->
+    <g transform="translate(155, 140)">
+        <circle cx="0" cy="-15" r="8" fill="#3A66C0"/> <!-- 头 -->
+        <path d="M-5 -5L0 10L5 -5" stroke="#3A66C0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/> <!-- 身体 -->
+        <line x1="-8" y1="0" x2="8" y2="0" stroke="#3A66C0" stroke-width="4" stroke-linecap="round"/> <!-- 手 -->
+    </g>
+    
+    <!-- 爱心 -->
+    <path d="M120 100C120 100 110 90 100 90C90 90 85 100 85 105C85 120 120 130 120 130C120 130 155 120 155 105C155 100 150 90 140 90C130 90 120 100 120 100Z" 
+        fill="#FF9500" fill-opacity="0.6"/>
+        
+    <!-- 装饰点缀 -->
+    <circle cx="70" cy="80" r="3" fill="#5985E1"/>
+    <circle cx="170" cy="80" r="3" fill="#5985E1"/>
+    <circle cx="60" cy="100" r="2" fill="#5985E1"/>
+    <circle cx="180" cy="100" r="2" fill="#5985E1"/>
+</svg> 

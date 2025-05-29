@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 主标签 -->
+    <path d="M12 16L12 32C12 33.1046 12.8954 34 14 34L30 34L36 24L30 14L14 14C12.8954 14 12 14.8954 12 16Z" stroke="#5985E1" stroke-width="2" stroke-linejoin="round"/>
+    <!-- 标签孔 -->
+    <circle cx="18" cy="24" r="2" stroke="#5985E1" stroke-width="2"/>
+    <!-- 装饰线条 -->
+    <line x1="24" y1="20" x2="32" y2="20" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+    <line x1="24" y1="28" x2="32" y2="28" stroke="#5985E1" stroke-width="2" stroke-linecap="round"/>
+</svg> 
